@@ -3,5 +3,5 @@ package utils
 import "fmt"
 
 func SayHello() {
-	fmt.Printf("hello jepson v1.0.1\n")
+	fmt.Printf("hello jepson v1.1.0\n")
 }
