@@ -6,6 +6,6 @@ import (
 )
 
 func SayHello() {
-	fmt.Printf("hello jepson v1.1.0\n")
+	fmt.Printf("hello jepson v1.1.1\n")
 	jep.Jep()
 }
